@@ -1,3 +1,4 @@
+require("dotenv").config();
 const MapboxClient = require("mapbox");
 const inside = require("point-in-polygon");
 const atob = require("atob");
@@ -5,8 +6,7 @@ const fs = require("fs");
 
 // Configuration
 const config = {
-  mapbox_token:
-    "cGsuZXlKMUlqb2libVYzY3kxdmJqRnBibVVpTENKaElqb2lZMnBqYXpFM09UbDNNRFV5ZVRKM2NHbDJOV1J4Y0RocE55SjkuS3c0bGhBYkxVazlJUGF6dXRCZTI4dw=="
+  mapbox_token: process.env.TOKEN
 };
 
 // Constants
@@ -120,7 +120,8 @@ const main = async () => {
     newFile.push(newEntry);
     await timeout(125);
   }
-  fs.writeFileSync("./outfile.json", JSON.stringify(newFile));
+  // Write to file
+  // fs.writeFileSync("./outfile.json", JSON.stringify(newFile));
 };
 
 main();
