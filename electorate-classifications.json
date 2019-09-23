@@ -1,0 +1,757 @@
+﻿[
+  {
+    "division": "Adelaide",
+    "classification": "Inner Metropolitan",
+    "state": "South Australia"
+  },
+  {
+    "division": "Aston",
+    "classification": "Outer Metropolitan",
+    "state": "Victoria"
+  },
+  {
+    "division": "Ballarat",
+    "classification": "Provincial",
+    "state": "Victoria"
+  },
+  {
+    "division": "Banks",
+    "classification": "Inner Metropolitan",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Barker",
+    "classification": "Rural",
+    "state": "South Australia"
+  },
+  {
+    "division": "Barton",
+    "classification": "Inner Metropolitan",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Bass",
+    "classification": "Provincial",
+    "state": "Tasmania"
+  },
+  {
+    "division": "Bean",
+    "classification": "Inner Metropolitan",
+    "state": "ACT"
+  },
+  {
+    "division": "Bendigo",
+    "classification": "Provincial",
+    "state": "Victoria"
+  },
+  {
+    "division": "Bennelong",
+    "classification": "Inner Metropolitan",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Berowra",
+    "classification": "Outer Metropolitan",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Blair",
+    "classification": "Provincial",
+    "state": "Queensland"
+  },
+  {
+    "division": "Blaxland",
+    "classification": "Inner Metropolitan",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Bonner",
+    "classification": "Outer Metropolitan",
+    "state": "Queensland"
+  },
+  {
+    "division": "Boothby",
+    "classification": "Outer Metropolitan",
+    "state": "South Australia"
+  },
+  {
+    "division": "Bowman",
+    "classification": "Outer Metropolitan",
+    "state": "Queensland"
+  },
+  {
+    "division": "Braddon",
+    "classification": "Rural",
+    "state": "Tasmania"
+  },
+  {
+    "division": "Bradfield",
+    "classification": "Inner Metropolitan",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Brand",
+    "classification": "Outer Metropolitan",
+    "state": "Western Australia"
+  },
+  {
+    "division": "Brisbane",
+    "classification": "Inner Metropolitan",
+    "state": "Queensland"
+  },
+  {
+    "division": "Bruce",
+    "classification": "Outer Metropolitan",
+    "state": "Victoria"
+  },
+  {
+    "division": "Burt",
+    "classification": "Outer Metropolitan",
+    "state": "Western Australia"
+  },
+  {
+    "division": "Calare",
+    "classification": "Rural",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Calwell",
+    "classification": "Outer Metropolitan",
+    "state": "Victoria"
+  },
+  {
+    "division": "Canberra",
+    "classification": "Inner Metropolitan",
+    "state": "ACT"
+  },
+  {
+    "division": "Canning",
+    "classification": "Outer Metropolitan",
+    "state": "Western Australia"
+  },
+  {
+    "division": "Capricornia",
+    "classification": "Provincial",
+    "state": "Queensland"
+  },
+  {
+    "division": "Casey",
+    "classification": "Rural",
+    "state": "Victoria"
+  },
+  {
+    "division": "Chifley",
+    "classification": "Outer Metropolitan",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Chisholm",
+    "classification": "Inner Metropolitan",
+    "state": "Victoria"
+  },
+  {
+    "division": "Clark",
+    "classification": "Inner Metropolitan",
+    "state": "Tasmania"
+  },
+  {
+    "division": "Cook",
+    "classification": "Inner Metropolitan",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Cooper",
+    "classification": "Inner Metropolitan",
+    "state": "Victoria"
+  },
+  {
+    "division": "Corangamite",
+    "classification": "Provincial",
+    "state": "Victoria"
+  },
+  {
+    "division": "Corio",
+    "classification": "Provincial",
+    "state": "Victoria"
+  },
+  {
+    "division": "Cowan",
+    "classification": "Outer Metropolitan",
+    "state": "Western Australia"
+  },
+  {
+    "division": "Cowper",
+    "classification": "Provincial",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Cunningham",
+    "classification": "Provincial",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Curtin",
+    "classification": "Inner Metropolitan",
+    "state": "Western Australia"
+  },
+  {
+    "division": "Dawson",
+    "classification": "Rural",
+    "state": "Queensland"
+  },
+  {
+    "division": "Deakin",
+    "classification": "Outer Metropolitan",
+    "state": "Victoria"
+  },
+  {
+    "division": "Dickson",
+    "classification": "Outer Metropolitan",
+    "state": "Queensland"
+  },
+  {
+    "division": "Dobell",
+    "classification": "Provincial",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Dunkley",
+    "classification": "Outer Metropolitan",
+    "state": "Victoria"
+  },
+  {
+    "division": "Durack",
+    "classification": "Rural",
+    "state": "Western Australia"
+  },
+  {
+    "division": "Eden-Monaro",
+    "classification": "Rural",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Fadden",
+    "classification": "Outer Metropolitan",
+    "state": "Queensland"
+  },
+  {
+    "division": "Fairfax",
+    "classification": "Rural",
+    "state": "Queensland"
+  },
+  {
+    "division": "Farrer",
+    "classification": "Rural",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Fenner",
+    "classification": "Inner Metropolitan",
+    "state": "ACT"
+  },
+  {
+    "division": "Fisher",
+    "classification": "Rural",
+    "state": "Queensland"
+  },
+  {
+    "division": "Flinders",
+    "classification": "Rural",
+    "state": "Victoria"
+  },
+  {
+    "division": "Flynn",
+    "classification": "Rural",
+    "state": "Queensland"
+  },
+  {
+    "division": "Forde",
+    "classification": "Outer Metropolitan",
+    "state": "Queensland"
+  },
+  {
+    "division": "Forrest",
+    "classification": "Rural",
+    "state": "Western Australia"
+  },
+  {
+    "division": "Fowler",
+    "classification": "Outer Metropolitan",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Franklin",
+    "classification": "Outer Metropolitan",
+    "state": "Tasmania"
+  },
+  {
+    "division": "Fraser",
+    "classification": "Outer Metropolitan",
+    "state": "Victoria"
+  },
+  {
+    "division": "Fremantle",
+    "classification": "Inner Metropolitan",
+    "state": "Western Australia"
+  },
+  {
+    "division": "Gellibrand",
+    "classification": "Inner Metropolitan",
+    "state": "Victoria"
+  },
+  {
+    "division": "Gilmore",
+    "classification": "Rural",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Gippsland",
+    "classification": "Rural",
+    "state": "Victoria"
+  },
+  {
+    "division": "Goldstein",
+    "classification": "Inner Metropolitan",
+    "state": "Victoria"
+  },
+  {
+    "division": "Gorton",
+    "classification": "Outer Metropolitan",
+    "state": "Victoria"
+  },
+  {
+    "division": "Grayndler",
+    "classification": "Inner Metropolitan",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Greenway",
+    "classification": "Outer Metropolitan",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Grey",
+    "classification": "Rural",
+    "state": "South Australia"
+  },
+  {
+    "division": "Griffith",
+    "classification": "Inner Metropolitan",
+    "state": "Queensland"
+  },
+  {
+    "division": "Groom",
+    "classification": "Provincial",
+    "state": "Queensland"
+  },
+  {
+    "division": "Hasluck",
+    "classification": "Outer Metropolitan",
+    "state": "Western Australia"
+  },
+  {
+    "division": "Herbert",
+    "classification": "Provincial",
+    "state": "Queensland"
+  },
+  {
+    "division": "Higgins",
+    "classification": "Inner Metropolitan",
+    "state": "Victoria"
+  },
+  {
+    "division": "Hindmarsh",
+    "classification": "Inner Metropolitan",
+    "state": "South Australia"
+  },
+  {
+    "division": "Hinkler",
+    "classification": "Provincial",
+    "state": "Queensland"
+  },
+  {
+    "division": "Holt",
+    "classification": "Outer Metropolitan",
+    "state": "Victoria"
+  },
+  {
+    "division": "Hotham",
+    "classification": "Inner Metropolitan",
+    "state": "Victoria"
+  },
+  {
+    "division": "Hughes",
+    "classification": "Outer Metropolitan",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Hume",
+    "classification": "Provincial",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Hunter",
+    "classification": "Rural",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Indi",
+    "classification": "Rural",
+    "state": "Victoria"
+  },
+  {
+    "division": "Isaacs",
+    "classification": "Outer Metropolitan",
+    "state": "Victoria"
+  },
+  {
+    "division": "Jagajaga",
+    "classification": "Inner Metropolitan",
+    "state": "Victoria"
+  },
+  {
+    "division": "Kennedy",
+    "classification": "Rural",
+    "state": "Queensland"
+  },
+  {
+    "division": "Kingsford Smith",
+    "classification": "Inner Metropolitan",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Kingston",
+    "classification": "Outer Metropolitan",
+    "state": "South Australia"
+  },
+  {
+    "division": "Kooyong",
+    "classification": "Inner Metropolitan",
+    "state": "Victoria"
+  },
+  {
+    "division": "La Trobe",
+    "classification": "Outer Metropolitan",
+    "state": "Victoria"
+  },
+  {
+    "division": "Lalor",
+    "classification": "Outer Metropolitan",
+    "state": "Victoria"
+  },
+  {
+    "division": "Leichhardt",
+    "classification": "Rural",
+    "state": "Queensland"
+  },
+  {
+    "division": "Lilley",
+    "classification": "Inner Metropolitan",
+    "state": "Queensland"
+  },
+  {
+    "division": "Lindsay",
+    "classification": "Outer Metropolitan",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Lingiari",
+    "classification": "Rural",
+    "state": "NT"
+  },
+  {
+    "division": "Longman",
+    "classification": "Provincial",
+    "state": "Queensland"
+  },
+  {
+    "division": "Lyne",
+    "classification": "Rural",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Lyons",
+    "classification": "Rural",
+    "state": "Tasmania"
+  },
+  {
+    "division": "Macarthur",
+    "classification": "Outer Metropolitan",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Mackellar",
+    "classification": "Outer Metropolitan",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Macnamara",
+    "classification": "Inner Metropolitan",
+    "state": "Victoria"
+  },
+  {
+    "division": "Macquarie",
+    "classification": "Provincial",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Makin",
+    "classification": "Outer Metropolitan",
+    "state": "South Australia"
+  },
+  {
+    "division": "Mallee",
+    "classification": "Rural",
+    "state": "Victoria"
+  },
+  {
+    "division": "Maranoa",
+    "classification": "Rural",
+    "state": "Queensland"
+  },
+  {
+    "division": "Maribyrnong",
+    "classification": "Inner Metropolitan",
+    "state": "Victoria"
+  },
+  {
+    "division": "Mayo",
+    "classification": "Rural",
+    "state": "South Australia"
+  },
+  {
+    "division": "McEwen",
+    "classification": "Rural",
+    "state": "Victoria"
+  },
+  {
+    "division": "McMahon",
+    "classification": "Outer Metropolitan",
+    "state": "New South Wales"
+  },
+  {
+    "division": "McPherson",
+    "classification": "Provincial",
+    "state": "Queensland"
+  },
+  {
+    "division": "Melbourne",
+    "classification": "Inner Metropolitan",
+    "state": "Victoria"
+  },
+  {
+    "division": "Menzies",
+    "classification": "Outer Metropolitan",
+    "state": "Victoria"
+  },
+  {
+    "division": "Mitchell",
+    "classification": "Outer Metropolitan",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Monash",
+    "classification": "Rural",
+    "state": "Victoria"
+  },
+  {
+    "division": "Moncrieff",
+    "classification": "Provincial",
+    "state": "Queensland"
+  },
+  {
+    "division": "Moore",
+    "classification": "Outer Metropolitan",
+    "state": "Western Australia"
+  },
+  {
+    "division": "Moreton",
+    "classification": "Inner Metropolitan",
+    "state": "Queensland"
+  },
+  {
+    "division": "New England",
+    "classification": "Rural",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Newcastle",
+    "classification": "Provincial",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Nicholls",
+    "classification": "Rural",
+    "state": "Victoria"
+  },
+  {
+    "division": "North Sydney",
+    "classification": "Inner Metropolitan",
+    "state": "New South Wales"
+  },
+  {
+    "division": "O'Connor",
+    "classification": "Rural",
+    "state": "Western Australia"
+  },
+  {
+    "division": "Oxley",
+    "classification": "Outer Metropolitan",
+    "state": "Queensland"
+  },
+  {
+    "division": "Page",
+    "classification": "Rural",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Parkes",
+    "classification": "Rural",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Parramatta",
+    "classification": "Inner Metropolitan",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Paterson",
+    "classification": "Provincial",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Pearce",
+    "classification": "Outer Metropolitan",
+    "state": "Western Australia"
+  },
+  {
+    "division": "Perth",
+    "classification": "Inner Metropolitan",
+    "state": "Western Australia"
+  },
+  {
+    "division": "Petrie",
+    "classification": "Outer Metropolitan",
+    "state": "Queensland"
+  },
+  {
+    "division": "Rankin",
+    "classification": "Outer Metropolitan",
+    "state": "Queensland"
+  },
+  {
+    "division": "Reid",
+    "classification": "Inner Metropolitan",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Richmond",
+    "classification": "Rural",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Riverina",
+    "classification": "Rural",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Robertson",
+    "classification": "Provincial",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Ryan",
+    "classification": "Outer Metropolitan",
+    "state": "Queensland"
+  },
+  {
+    "division": "Scullin",
+    "classification": "Outer Metropolitan",
+    "state": "Victoria"
+  },
+  {
+    "division": "Shortland",
+    "classification": "Provincial",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Solomon",
+    "classification": "Inner Metropolitan",
+    "state": "NT"
+  },
+  {
+    "division": "Spence",
+    "classification": "Outer Metropolitan",
+    "state": "South Australia"
+  },
+  {
+    "division": "Stirling",
+    "classification": "Inner Metropolitan",
+    "state": "Western Australia"
+  },
+  {
+    "division": "Sturt",
+    "classification": "Inner Metropolitan",
+    "state": "South Australia"
+  },
+  {
+    "division": "Swan",
+    "classification": "Inner Metropolitan",
+    "state": "Western Australia"
+  },
+  {
+    "division": "Sydney",
+    "classification": "Inner Metropolitan",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Tangney",
+    "classification": "Inner Metropolitan",
+    "state": "Western Australia"
+  },
+  {
+    "division": "Wannon",
+    "classification": "Rural",
+    "state": "Victoria"
+  },
+  {
+    "division": "Warringah",
+    "classification": "Inner Metropolitan",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Watson",
+    "classification": "Inner Metropolitan",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Wentworth",
+    "classification": "Inner Metropolitan",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Werriwa",
+    "classification": "Outer Metropolitan",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Whitlam",
+    "classification": "Provincial",
+    "state": "New South Wales"
+  },
+  {
+    "division": "Wide Bay",
+    "classification": "Rural",
+    "state": "Queensland"
+  },
+  {
+    "division": "Wills",
+    "classification": "Inner Metropolitan",
+    "state": "Victoria"
+  },
+  {
+    "division": "Wright",
+    "classification": "Rural",
+    "state": "Queensland"
+  }
+]

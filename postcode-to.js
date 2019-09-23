@@ -1,7 +1,7 @@
 const MapboxClient = require("mapbox");
 const inside = require("point-in-polygon");
 const atob = require("atob");
-const d3 = require(Object.assign({}, require("d3-fetch")));
+const fs = require("fs");
 
 // Configuration
 const config = {
@@ -18,7 +18,8 @@ const client = new MapboxClient(MAPBOX_TOKEN);
 
 // Import GEOJSON and other data
 const electorateMap = require("./federal-electorates-2019.geo.json").features;
-const postcodes = [];
+const areas = require("./unique-postcodes.json");
+const divisions = require("./electorate-classifications.json");
 
 // console.log(electorateMap.features);
 
@@ -85,15 +86,41 @@ const addressToElectorate = async (possibleLatLongs, localAreas) => {
 };
 
 const main = async () => {
-  for (let postcode of postcodes) {
-    // Get center of searched address
-    let possibleLatLongs = await geocodeString(postcode.toString());
-    console.log(possibleLatLongs);
-    const result = await addressToElectorate(possibleLatLongs, electorateMap);
+  const postcodes = areas.map(area => area.postcode);
 
-    console.log(result);
-    await timeout(2000);
+  const newFile = [];
+
+  for (let postcode of postcodes) {
+    let newEntry = {};
+
+    const searchString = postcode < 1000 ? "0" + postcode : postcode.toString();
+
+    newEntry.postcode = searchString;
+
+    let possibleLatLongs = await geocodeString(searchString);
+    // console.log(possibleLatLongs[0]);
+    newEntry.center = possibleLatLongs[0] ? possibleLatLongs[0].center : "NULL";
+    newEntry.placeName = possibleLatLongs[0]
+      ? possibleLatLongs[0].place_name
+      : "NULL";
+
+    const result = await addressToElectorate(possibleLatLongs, electorateMap);
+    newEntry.electorate = result[0] ? result[0].properties.name : "NULL";
+
+    if (newEntry.electorate !== "NULL") {
+      for (let entry of divisions) {
+        if (entry.division === newEntry.electorate) {
+          newEntry.classification = entry.classification;
+          break;
+        } else newEntry.classification = "NULL";
+      }
+    }
+
+    console.log(newEntry);
+    newFile.push(newEntry);
+    await timeout(125);
   }
+  fs.writeFileSync("./outfile.json", JSON.stringify(newFile));
 };
 
 main();
