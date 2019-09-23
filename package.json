@@ -1,0 +1,17 @@
+{
+  "name": "postcodes-to",
+  "version": "1.0.0",
+  "description": "",
+  "main": "postcode-to.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "atob": "^2.1.2",
+    "d3-fetch": "^1.1.2",
+    "mapbox": "^1.0.0-beta10",
+    "point-in-polygon": "^1.0.1"
+  }
+}
