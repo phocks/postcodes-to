@@ -16,7 +16,7 @@ const main = async () => {
   fs.writeFileSync("output/out.csv", "");
   fs.appendFileSync(
     "output/out.csv",
-    "state,electorate,postcode,population,total_postcode_proportion,proportion\n"
+    "state,electorate,postcode,population,total_postcode_proportion,proportion,classification\n"
   );
 
   // Record limit for testing
