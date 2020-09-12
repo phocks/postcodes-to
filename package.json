@@ -14,7 +14,7 @@
     "d3-fetch": "^1.1.2",
     "dotenv": "^8.1.0",
     "mapbox": "^1.0.0-beta10",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "point-in-polygon": "^1.0.1"
   }
 }
