@@ -11,7 +11,7 @@
   "dependencies": {
     "atob": "^2.1.2",
     "d3-dsv": "^1.1.1",
-    "d3-fetch": "^1.1.2",
+    "d3-fetch": "^1.2.0",
     "dotenv": "^8.1.0",
     "mapbox": "^1.0.0-beta10",
     "node-fetch": "^2.6.0",
